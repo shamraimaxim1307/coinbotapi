@@ -18,7 +18,7 @@ type binanceResp struct {
 }
 
 func getKey() string {
-	return "2120064016:AAEt-sdqchuVskjVOHXSMk3tGhWTGHqvWWY"
+	return "EnterYourTelegramToken"
 }
 
 type wallet map[string]float64
